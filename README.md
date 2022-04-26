@@ -1,2 +1,1 @@
-# GPT_CHECK4
-Created with CodeSandbox
+# gpt3-twitter-bot
